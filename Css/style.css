@@ -46,7 +46,7 @@ ul {
 /* start heading  */
 .heading {
     position: relative;
-    background-image: url('/Image/header_bg.jpg');
+    background-image: url('../Image/header_bg.jpg');
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -345,7 +345,7 @@ ul {
 }
 .about .img {
     position: relative;
-    background-image: url('/Image/about_bg.jpg');
+    background-image: url('../Image/about_bg.jpg');
     background-position: center center;
     background-size: cover;
     width: 100%;
